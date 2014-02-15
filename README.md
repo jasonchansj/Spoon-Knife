@@ -13,4 +13,4 @@ After forking this repository, you can make some changes to the project, and sub
 
 It's changed for the second time.
 
-It's changed after creating a new branch.
+It's changed from feature-idea.
